@@ -1,8 +1,8 @@
-package com.verizon.testangular.dao;
+package com.verizon.springAngularInt.dao;
 
-import java.util.List;
+import java.util.List;	
 
-import com.verizon.testangular.model.Customer;
+import com.verizon.springAngularInt.model.Customer;
 
 public interface CustomerDao {
 	public List<Customer> getCustomer();

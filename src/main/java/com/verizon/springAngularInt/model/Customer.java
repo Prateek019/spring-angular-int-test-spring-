@@ -1,4 +1,4 @@
-package com.verizon.testangular.model;
+package com.verizon.springAngularInt.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
